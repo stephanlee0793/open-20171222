@@ -1,4 +1,2 @@
-django<2
-pillow
-requests
-beautifulsoup4
+-r reqs/prod.txt
+
